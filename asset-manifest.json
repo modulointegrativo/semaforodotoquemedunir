@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/semaforodotoquemedunir/static/css/main.12c085ee.css",
-    "main.js": "/semaforodotoquemedunir/static/js/main.65bd84b9.js",
+    "main.js": "/semaforodotoquemedunir/static/js/main.d062220f.js",
     "index.html": "/semaforodotoquemedunir/index.html",
     "main.12c085ee.css.map": "/semaforodotoquemedunir/static/css/main.12c085ee.css.map",
-    "main.65bd84b9.js.map": "/semaforodotoquemedunir/static/js/main.65bd84b9.js.map"
+    "main.d062220f.js.map": "/semaforodotoquemedunir/static/js/main.d062220f.js.map"
   },
   "entrypoints": [
     "static/css/main.12c085ee.css",
-    "static/js/main.65bd84b9.js"
+    "static/js/main.d062220f.js"
   ]
 }
