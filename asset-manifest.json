@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/semaforodotoquemedunir/static/css/main.12c085ee.css",
+    "main.js": "/semaforodotoquemedunir/static/js/main.561eeac3.js",
+    "index.html": "/semaforodotoquemedunir/index.html",
+    "main.12c085ee.css.map": "/semaforodotoquemedunir/static/css/main.12c085ee.css.map",
+    "main.561eeac3.js.map": "/semaforodotoquemedunir/static/js/main.561eeac3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12c085ee.css",
+    "static/js/main.561eeac3.js"
+  ]
+}
