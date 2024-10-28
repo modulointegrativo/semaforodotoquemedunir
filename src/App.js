@@ -10,11 +10,8 @@ function App() {
             <header className="App-header">
                 <div className="university-info">
                     
-                    <img 
-                        src="/unir-logo.png" 
-                        alt="Logo da Universidade Federal de Rondônia" 
-                        className="university-logo" 
-                    />
+                 <img src={`${process.env.PUBLIC_URL}/unir-logo.png`} alt="Logo da Universidade Federal de Rondônia" className="university-logo" />
+
                 </div>
             </header>
 
