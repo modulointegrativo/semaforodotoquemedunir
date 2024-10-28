@@ -302,7 +302,7 @@ const Toque = () => {
 
         <div className="game-container">
           <div className="person">
-            <img src={`${process.env.PUBLIC_URL}/crianca.png`} alt="Criança" className="image" />
+            <img src={`${process.env.PUBLIC_URL}/logo512.png`} alt="Criança" className="image" />
             {Object.keys(areas).map((area) => (
               <div
                 key={area}
